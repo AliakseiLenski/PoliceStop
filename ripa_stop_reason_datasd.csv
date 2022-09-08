@@ -1,0 +1,513 @@
+stopID,pid,reason,stopCode,reasonText,reasonDetail,reasonExplanation
+2443,1,Reasonable Suspicion,64005,647(F) PC - DISORD CONDUCT:ALCOHOL (M) 64005,Officer witnessed commission of a crime,"staggering, unable to safely walk"
+2444,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2447,1,Reasonable Suspicion,53072,415(1) PC - FIGHT IN PUBLIC PLACE (M) 53072,Matched suspect description,Both parties involved in argument.
+2447,2,Reasonable Suspicion,53072,415(1) PC - FIGHT IN PUBLIC PLACE (M) 53072,Other Reasonable Suspicion of a crime,Both parties engaged in argument.
+2448,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,UNSAFE DRIVING
+2449,1,Reasonable Suspicion,13045,242 PC - BATTERY (M) 13045,Matched suspect description,matched description of suspect on 242 radio call.
+2451,1,Reasonable Suspicion,64005,647(F) PC - DISORD CONDUCT:ALCOHOL (M) 64005,Other Reasonable Suspicion of a crime,drunk
+2453,1,Reasonable Suspicion,13219,245(A)(1) PC - ADW NOT FIREARM (F) 13219,Matched suspect description,"ARREST CONNECTED WITH 245A1, 594B1"
+2453,1,Reasonable Suspicion,13219,245(A)(1) PC - ADW NOT FIREARM (F) 13219,Other Reasonable Suspicion of a crime,"ARREST CONNECTED WITH 245A1, 594B1"
+2454,1,Traffic Violation,54099,4000(A) VC - NO REG:VEH/TRAILER/ETC (I) 54099,"Non-moving Violation, including Registration Violation",Pursuit of justice
+2455,1,Reasonable Suspicion,53072,415(1) PC - FIGHT IN PUBLIC PLACE (M) 53072,Matched suspect description,matched desc suspect seen fighting 
+2456,1,Consensual Encounter resulting in a search,,,,fox was dupster diving at time of contact 
+2457,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,driving bike with no front light at night 
+2458,1,Traffic Violation,54141,21201(D) VC - BIKE HEADLIGHT/ETC VIOL (I) 54141,Equipment Violation,SUBJECT DID NOT HAVE A REAL LIGHT ON BIKE
+2459,1,Reasonable Suspicion,64005,647(F) PC - DISORD CONDUCT:ALCOHOL (M) 64005,Other Reasonable Suspicion of a crime,RADIO CALL REFUED TO LEAVE
+2461,1,Reasonable Suspicion,32022,602 PC - TRESPASSING (M) 32022,Officer witnessed commission of a crime,The subject was asked to leave PB Shore Club
+2462,1,Traffic Violation,54098,21453(A) VC - FAIL STOP LINE/ETC AT RED (I) 54098,Moving Violation,FAILURE TO STOP AT RED LIGHT
+2463,1,Reasonable Suspicion,65000,65000 ZZ - LOCAL ORDINANCE VIOL (M) 65000,Officer witnessed commission of a crime,engaging in sexual acts
+2464,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,engaging in sexual acts
+2465,1,Traffic Violation,54566,23123(A) VC - USE CELLPH W/DRIV W/O HFD (I) 54566,Moving Violation,cell phone
+2467,1,Traffic Violation,54644,5200(A) VC - DISPLAY LIC PLATES WRONG (I) 54644,Equipment Violation,no rear plate
+2469,1,Traffic Violation,54159,21456(B) VC - PED AGAINST NO WALK SIGN (I) 54159,Moving Violation,SUBJECT CROSSED MISSION BAY DRIVE AGAINST SOLID RED HAND
+2471,1,Reasonable Suspicion,13174,243(E)(1) PC - BAT:SPOUSE/EX SP/DATE/ETC (M) 13174,Matched suspect description,INVESTIGATING DV
+2473,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,lidar @ 54 mph in a posted 35 mph zone
+2474,1,Reasonable Suspicion,24067,10851(A) VC - TAKE VEH W/O OWNER CONSNT (M) 24067,Other Reasonable Suspicion of a crime,radio call
+2475,1,Reasonable Suspicion,53072,415(1) PC - FIGHT IN PUBLIC PLACE (M) 53072,Officer witnessed commission of a crime,FIGHTING
+2476,1,Reasonable Suspicion,53072,415(1) PC - FIGHT IN PUBLIC PLACE (M) 53072,Officer witnessed commission of a crime,fighting in street
+2477,1,Traffic Violation,54398,21950(A) VC - FAIL YIELD TO PED:XWALKS (I) 54398,Moving Violation,suspect did not yield to peds almost striking three
+2477,2,Traffic Violation,54398,21950(A) VC - FAIL YIELD TO PED:XWALKS (I) 54398,Moving Violation,subject was passenger.
+2478,1,Reasonable Suspicion,32022,602 PC - TRESPASSING (M) 32022,Officer witnessed commission of a crime,REFUSAL TO LEAVE
+2479,1,Reasonable Suspicion,53072,415(1) PC - FIGHT IN PUBLIC PLACE (M) 53072,Officer witnessed commission of a crime,group fighting
+2479,2,Reasonable Suspicion,53072,415(1) PC - FIGHT IN PUBLIC PLACE (M) 53072,Officer witnessed commission of a crime,group fighting
+2481,1,Reasonable Suspicion,99999,NA - XX ZZ - CODE NOT FOUND IN TABLE (X) 99999,Other Reasonable Suspicion of a crime,POTENTIAL WITNESS TO A CRIME. 
+2482,1,Reasonable Suspicion,53072,415(1) PC - FIGHT IN PUBLIC PLACE (M) 53072,Officer witnessed commission of a crime,fighting in public
+2483,1,Reasonable Suspicion,64005,647(F) PC - DISORD CONDUCT:ALCOHOL (M) 64005,Officer witnessed commission of a crime,"creating a disturbance, fighting"
+2484,1,Investigation to determine whether the person was truant,,,,Responded to a radio call
+2485,1,Reasonable Suspicion,42104,23152(A) VC - DUI ALCOHOL (M) 42104,Other Reasonable Suspicion of a crime,dui collision
+2486,1,Reasonable Suspicion,13174,243(E)(1) PC - BAT:SPOUSE/EX SP/DATE/ETC (M) 13174,Witness or Victim identification of Suspect at the scene,radio call to investigate a domestic violence
+2487,1,Reasonable Suspicion,64005,647(F) PC - DISORD CONDUCT:ALCOHOL (M) 64005,Matched suspect description,FIGHTING WITH GIRLFRIEND AFTER DRINKING
+2488,1,Reasonable Suspicion,38081,273.5(A) PC - CRPL INJ:SPOUS/COHAB/DATE (M) 38081,Matched suspect description,INVESTIGATE 273.5(a).  
+2489,1,Reasonable Suspicion,64005,647(F) PC - DISORD CONDUCT:ALCOHOL (M) 64005,Officer witnessed commission of a crime,Fighting
+2490,1,Reasonable Suspicion,64005,647(F) PC - DISORD CONDUCT:ALCOHOL (M) 64005,Officer witnessed commission of a crime,Detained for disorderly conduct - Alcohol at a diner.  
+2490,1,Reasonable Suspicion,64005,647(F) PC - DISORD CONDUCT:ALCOHOL (M) 64005,Witness or Victim identification of Suspect at the scene,Detained for disorderly conduct - Alcohol at a diner.  
+2491,1,Reasonable Suspicion,32082,647(H) PC - LOITER/ETC PRIVATE PROP (M) 32082,Other Reasonable Suspicion of a crime,Female passenger in vehicle illegally parked in handicap spot
+2493,1,Reasonable Suspicion,35150,11173(C) HS - REP AS DR/ETC:GET C/SUB (F) 35150,Other Reasonable Suspicion of a crime,RADIO CALL REGARDING A SLEEPER 
+2497,1,Reasonable Suspicion,53072,415(1) PC - FIGHT IN PUBLIC PLACE (M) 53072,Matched suspect description,CAUSING PROBLEMS
+2499,1,Reasonable Suspicion,48122,148(A)(1) PC - OBSTRUCT/ETC PUB OFCR/ETC (M) 48122,Officer witnessed commission of a crime,SUBJECT INTEREFERED WITH OFFICERS WHO WERE BREAKING UP AN ACTIVE FIGHT
+2500,1,Reasonable Suspicion,53073,415(2) PC - UNREASONABLE NOISE (M) 53073,Matched suspect description,"Was going to get a knife and ""End it."""
+2501,1,Reasonable Suspicion,64005,647(F) PC - DISORD CONDUCT:ALCOHOL (M) 64005,Officer witnessed commission of a crime,subject was physically fighting in public
+2502,1,Reasonable Suspicion,64005,647(F) PC - DISORD CONDUCT:ALCOHOL (M) 64005,Other Reasonable Suspicion of a crime,active fight in public
+2503,1,Traffic Violation,54159,21456(B) VC - PED AGAINST NO WALK SIGN (I) 54159,Moving Violation,MALE WALKED AGAINST THE RED HAND ON THE WEST CURB LINE OF 700 05TH AVE
+2504,1,Reasonable Suspicion,53072,415(1) PC - FIGHT IN PUBLIC PLACE (M) 53072,Actions indicative of engaging in violent crime,fighting in public
+2505,1,Traffic Violation,54098,21453(A) VC - FAIL STOP LINE/ETC AT RED (I) 54098,Moving Violation,I had green light. Driver made left turn on red arrow in front of me.
+2506,1,Traffic Violation,54145,21955 VC - JAYWALKING (I) 54145,Moving Violation,"walking in middle of street, unresponsive"
+2507,1,Reasonable Suspicion,54145,21955 VC - JAYWALKING (I) 54145,Officer witnessed commission of a crime,Male walked across the street w/out using crosswalk 
+2508,1,Reasonable Suspicion,64005,647(F) PC - DISORD CONDUCT:ALCOHOL (M) 64005,Actions indicative of engaging in violent crime,MALE CHALLENGING OTHERS TO A PHYSICAL FIGHT WHILE OVERLY INTOXICATED
+2508,1,Reasonable Suspicion,64005,647(F) PC - DISORD CONDUCT:ALCOHOL (M) 64005,Other Reasonable Suspicion of a crime,MALE CHALLENGING OTHERS TO A PHYSICAL FIGHT WHILE OVERLY INTOXICATED
+2509,1,Reasonable Suspicion,32017,555.2 PC - LOITER POSTED PROPERTY (M) 32017,Officer witnessed commission of a crime,Field interview
+2510,1,Reasonable Suspicion,64005,647(F) PC - DISORD CONDUCT:ALCOHOL (M) 64005,Officer witnessed commission of a crime,drunk in public
+2511,1,Reasonable Suspicion,35143,11550 HS - UNDER INFLUENCE CNTL SUB (M) 35143,Matched suspect description,PERSON ODing ON NARCOTICS (MEDICAL CALL ONLY)
+2511,1,Reasonable Suspicion,35143,11550 HS - UNDER INFLUENCE CNTL SUB (M) 35143,Other Reasonable Suspicion of a crime,PERSON ODing ON NARCOTICS (MEDICAL CALL ONLY)
+2512,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Equipment Violation,Right front headlight out. Stop revealed registration expired
+2513,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,"Non-moving Violation, including Registration Violation",SLUMPED OVER IN A VEHICLE
+2514,1,Reasonable Suspicion,41063,25620 BP - POSS OPEN ALCOHOL:PUBLIC (I) 41063,Officer witnessed commission of a crime,the male was holding an open can of beer
+2516,1,Reasonable Suspicion,50084,273.6(A) PC - VIO ORD:PREVNT DOMES VIOL (M) 50084,Officer witnessed commission of a crime,violation of a TRO
+2517,1,Reasonable Suspicion,23212,459.5 PC - SHOPLIFTING (F) 23212,Matched suspect description,SUBJECT DETAINED BY EMPLOYEE FOR SHOPLIFTING 
+2518,1,Reasonable Suspicion,99990,NA - XX ZZ - COMMUNITY CARETAKING (X) 99990,Other Reasonable Suspicion of a crime,radio call
+2519,1,Reasonable Suspicion,13220,245(A)(1) PC - ADW NOT FIREARM (M) 13220,Matched suspect description,SUBJECT STABBED VICTIM 
+2520,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,"Non-moving Violation, including Registration Violation",SUSPENDED DRIVER'S LICENSE
+2521,1,Reasonable Suspicion,13219,245(A)(1) PC - ADW NOT FIREARM (F) 13219,Matched suspect description,suspect in stabbing radio call
+2522,1,Reasonable Suspicion,13219,245(A)(1) PC - ADW NOT FIREARM (F) 13219,Matched suspect description,matched suspect description for stabbing
+2523,1,Traffic Violation,54116,27150(A) VC - INADEQUATE MUFFLERS (I) 54116,Equipment Violation,Loud exhaust
+2525,1,Reasonable Suspicion,35423,11364(A) HS - POSS UNLAW PARAPHERNALIA (M) 35423,Officer witnessed commission of a crime,Found paraphernalia in backpack. 4th waiver.
+2526,1,Traffic Violation,54167,22450(A) VC - FAIL STOP VEH:XWALK/ETC (I) 54167,Moving Violation,stop sign
+2527,1,Reasonable Suspicion,32022,602 PC - TRESPASSING (M) 32022,Matched suspect description,602 PC
+2528,1,Reasonable Suspicion,53072,415(1) PC - FIGHT IN PUBLIC PLACE (M) 53072,Other Reasonable Suspicion of a crime,RADIO CALL
+2528,2,Reasonable Suspicion,53072,415(1) PC - FIGHT IN PUBLIC PLACE (M) 53072,Other Reasonable Suspicion of a crime,RADIO CALL
+2529,1,Reasonable Suspicion,54657,4000(A)(1) VC - NO REG:VEH/TRAILER/ETC (I) 54657,Officer witnessed commission of a crime,reg expired >6 mo
+2530,1,Reasonable Suspicion,11084,243.4(E)(1) PC - SEXUAL BATT:SEX AROUSAL (M) 11084,Officer witnessed commission of a crime,radio call of a group of males and females fighting
+2530,1,Reasonable Suspicion,11084,243.4(E)(1) PC - SEXUAL BATT:SEX AROUSAL (M) 11084,Witness or Victim identification of Suspect at the scene,radio call of a group of males and females fighting
+2531,1,Reasonable Suspicion,23012,485 PC - APPROPR LOST PROP (F) 23012,Other Reasonable Suspicion of a crime,"Missappropriation of property, shopping carts"
+2532,1,Reasonable Suspicion,13082,243(A) PC - BATTERY ON PERSON (M) 13082,Matched suspect description,radio call of a group of males and females fighting
+2533,1,Reasonable Suspicion,32022,602 PC - TRESPASSING (M) 32022,Other Reasonable Suspicion of a crime,RADIO CALL FOR PROWLER IN BACK YARD. 
+2534,1,Reasonable Suspicion,54330,22500 VC - PARKING/ETC VIO:SPEC CIRC (I) 54330,Matched suspect description,SLEEPING IN VEHICLE. RIPA DID NOT HAVE VIOLATION SO I ADDED ONE THAT DOESNT APPLY. 
+2535,1,Reasonable Suspicion,54330,22500 VC - PARKING/ETC VIO:SPEC CIRC (I) 54330,Matched suspect description,SLEEPING IN VEHICLE. RIPA DOES NOT HAVE THE VIOLATION SO THE ONE ABOVE DOES NOT APPLY. CANT SUBMIT RIPA WITHOUT A VIOLATION IN THEIR LIST...
+2536,1,Knowledge of outstanding arrest warrant/wanted person,,,,"subject is known to area, had warrant, records checked cleared. asked need of homeless assistance and declined"
+2537,1,Reasonable Suspicion,32022,602 PC - TRESPASSING (M) 32022,Matched suspect description,RADIO CALL MALE NOT LEAVING ROOM
+2538,1,Traffic Violation,54644,5200(A) VC - DISPLAY LIC PLATES WRONG (I) 54644,Equipment Violation,NO FRONT PLATE
+2539,1,Reasonable Suspicion,32111,647(E) PC - DIS CON:LODGE W/O CONSENT (M) 32111,Officer witnessed commission of a crime,Female sleeping on the beach 
+2541,1,Reasonable Suspicion,23106,485 PC - APPROPR LOST PROP (M) 23106,Officer witnessed commission of a crime,shopping cart in poss
+2542,1,Traffic Violation,54211,5202 VC - LICENSE PLATE DISPLAY VIO (I) 54211,Equipment Violation,no lp on front of car
+2543,1,Reasonable Suspicion,53073,415(2) PC - UNREASONABLE NOISE (M) 53073,Other Reasonable Suspicion of a crime,Susp was creating disturbance in front of bisuness
+2544,1,Traffic Violation,54122,21457(A) VC - FAIL STOP:FLASH RED LIGHT (I) 54122,Moving Violation,turned left on a red arrow
+2545,1,Reasonable Suspicion,54145,21955 VC - JAYWALKING (I) 54145,Other Reasonable Suspicion of a crime,FIELD INTERVIEW
+2546,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,STOPPED PAST THE LIMIT LINE FOR A RED SIGNAL
+2547,1,Reasonable Suspicion,23012,485 PC - APPROPR LOST PROP (F) 23012,Officer witnessed commission of a crime,subj was in poss of shopping cart
+2548,1,Traffic Violation,54098,21453(A) VC - FAIL STOP LINE/ETC AT RED (I) 54098,Moving Violation,RAN RED LIGHT
+2549,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,LIMIT LINE VIOLATION
+2550,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,holding cell phone
+2551,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,ran red light
+2552,1,Traffic Violation,54657,4000(A)(1) VC - NO REG:VEH/TRAILER/ETC (I) 54657,"Non-moving Violation, including Registration Violation",EXPIRED REGISTRATION 01/2018
+2553,1,Reasonable Suspicion,29138,594(A) PC - VANDALISM (M) 29138,Witness or Victim identification of Suspect at the scene,Radio call of male throwing rocks at widnow
+2554,1,Traffic Violation,54566,23123(A) VC - USE CELLPH W/DRIV W/O HFD (I) 54566,Moving Violation,Using cell phone while driving
+2555,1,Traffic Violation,54319,22100(B) VC - LEFT TURN INTERSECTN VIOL (I) 54319,Moving Violation,Driver did not yield to oncoming traffic
+2556,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,FAIL TO SIGNAL
+2557,1,Knowledge of outstanding arrest warrant/wanted person,,,,Sleeping on beach 
+2558,1,Reasonable Suspicion,13055,23110(A) VC - THROW SUBSTANCE AT VEH (M) 13055,Matched suspect description,poss 23110 sus
+2559,1,Traffic Violation,54655,23123.5 VC - NO HND HLD DEVICE W/DRIVE (I) 54655,Moving Violation,CELL PHONE
+2560,1,Reasonable Suspicion,23012,485 PC - APPROPR LOST PROP (F) 23012,Officer witnessed commission of a crime,subject was in poss of shopping cart
+2561,1,Traffic Violation,54159,21456(B) VC - PED AGAINST NO WALK SIGN (I) 54159,Moving Violation,cross against red hand
+2562,1,Traffic Violation,54167,22450(A) VC - FAIL STOP VEH:XWALK/ETC (I) 54167,Moving Violation,DROVE PAST LIMIT LINE OF STOP SIGN
+2563,1,Reasonable Suspicion,32022,602 PC - TRESPASSING (M) 32022,Other Reasonable Suspicion of a crime,FIELD INTERVIEW
+2564,1,Traffic Violation,31267,22658(K)(1) VC - FAIL ACCEPT VALID PAYMENT (M) 31267,"Non-moving Violation, including Registration Violation","586 vehicle, 22651(K) CVC- not above listed 22658"
+2565,1,Investigation to determine whether the person was truant,,,,radio call
+2565,2,Investigation to determine whether the person was truant,,,,radio call
+2566,1,Traffic Violation,54167,22450(A) VC - FAIL STOP VEH:XWALK/ETC (I) 54167,Moving Violation,failed to stop at stop sign
+2567,1,Traffic Violation,54566,23123(A) VC - USE CELLPH W/DRIV W/O HFD (I) 54566,Moving Violation,CELL PHONE
+2568,1,Reasonable Suspicion,12004,211 PC - ROBBERY (F) 12004,Matched suspect description,211 STRONG ARM PEDESTRIAN
+2569,1,Reasonable Suspicion,35143,11550 HS - UNDER INFLUENCE CNTL SUB (M) 35143,Other Reasonable Suspicion of a crime,FIELD INTERVIEW
+2569,2,Reasonable Suspicion,35143,11550 HS - UNDER INFLUENCE CNTL SUB (M) 35143,Other Reasonable Suspicion of a crime,FIELD INTERVIEW
+2570,1,Reasonable Suspicion,32111,647(E) PC - DIS CON:LODGE W/O CONSENT (M) 32111,Other Reasonable Suspicion of a crime,Call for service to this location for someone sleeping in a vehicle.
+2571,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,RED ARROW
+2572,1,Reasonable Suspicion,99990,NA - XX ZZ - COMMUNITY CARETAKING (X) 99990,Matched suspect description,5150 WI DANGER TO SELF RADIO CALL
+2572,1,Reasonable Suspicion,99990,NA - XX ZZ - COMMUNITY CARETAKING (X) 99990,Other Reasonable Suspicion of a crime,5150 WI DANGER TO SELF RADIO CALL
+2573,1,Traffic Violation,54657,4000(A)(1) VC - NO REG:VEH/TRAILER/ETC (I) 54657,"Non-moving Violation, including Registration Violation",EXP REGISTRATION
+2575,1,Consensual Encounter resulting in a search,,,,Subject was encroching on sidewalk/4th waiver
+2576,1,Reasonable Suspicion,54167,22450(A) VC - FAIL STOP VEH:XWALK/ETC (I) 54167,Officer witnessed commission of a crime,Ran a Stop sign
+2577,1,Reasonable Suspicion,42104,23152(A) VC - DUI ALCOHOL (M) 42104,Matched suspect description,1183 call for service
+2578,1,Reasonable Suspicion,13082,243(A) PC - BATTERY ON PERSON (M) 13082,Witness or Victim identification of Suspect at the scene,Flag down regarding a 242
+2579,1,Reasonable Suspicion,35454,11362.3(A)(4) HS - POSS MARIJ DRIVE/RIDE VEH (I) 35454,Witness or Victim identification of Suspect at the scene,Suspects were described by a radio call of smoking narc in vehicle.
+2579,2,Reasonable Suspicion,35454,11362.3(A)(4) HS - POSS MARIJ DRIVE/RIDE VEH (I) 35454,Witness or Victim identification of Suspect at the scene,Suspects were described by a radio call of smoking narc in vehicle.
+2579,3,Reasonable Suspicion,35454,11362.3(A)(4) HS - POSS MARIJ DRIVE/RIDE VEH (I) 35454,Witness or Victim identification of Suspect at the scene,Suspects were described by a radio call of smoking narc in vehicle.
+2579,4,Reasonable Suspicion,35454,11362.3(A)(4) HS - POSS MARIJ DRIVE/RIDE VEH (I) 35454,Witness or Victim identification of Suspect at the scene,Suspects were described by a radio call of smoking narc in vehicle.
+2580,1,Reasonable Suspicion,13174,243(E)(1) PC - BAT:SPOUSE/EX SP/DATE/ETC (M) 13174,Matched suspect description,DOMESTIC VIOLENCE CALL WITH SUBJECT DESCRIPTION
+2581,1,Consensual Encounter resulting in a search,,,,check the welfare call
+2582,1,Reasonable Suspicion,23012,485 PC - APPROPR LOST PROP (F) 23012,Officer witnessed commission of a crime,subj was in poss of shopping cart
+2583,1,Traffic Violation,54644,5200(A) VC - DISPLAY LIC PLATES WRONG (I) 54644,Equipment Violation,VERBAL ONLY
+2584,1,Reasonable Suspicion,32022,602 PC - TRESPASSING (M) 32022,Matched suspect description,Radio call of transient in car port
+2585,1,Reasonable Suspicion,13082,243(A) PC - BATTERY ON PERSON (M) 13082,Matched suspect description,Subject matched description of suspect reported to be hitting passersby.
+2586,1,Reasonable Suspicion,35212,11550(A) HS - UNDER INFLUENCE CNTL SUB (M) 35212,Other Reasonable Suspicion of a crime,Subject was passed out on the sidewalk
+2587,1,Reasonable Suspicion,23085,484(A)/488 PC - THFT PRSNL PROP/PTY THFT (M) 23085,Other Reasonable Suspicion of a crime,flagged down by walmart loss preventon
+2588,1,Traffic Violation,54657,4000(A)(1) VC - NO REG:VEH/TRAILER/ETC (I) 54657,Equipment Violation,VERBAL ONLY. 
+2589,1,Traffic Violation,54655,23123.5 VC - NO HND HLD DEVICE W/DRIVE (I) 54655,Moving Violation,USING CELL PHONE WHILE DRIVING
+2590,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding OVER 15 MPH ABOVE SPEED LIMIT
+2591,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding OVER 15 MPH ABOVE SPEED LIMIT
+2592,1,Traffic Violation,54303,22349(A) VC - EXCEED SPEED ON HIGHWAY (I) 54303,Moving Violation,Speeding
+2593,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding OVER 15 MPH ABOVE POSTED SPEED LIMIT
+2594,1,Reasonable Suspicion,23085,484(A)/488 PC - THFT PRSNL PROP/PTY THFT (M) 23085,Other Reasonable Suspicion of a crime,flogged down
+2595,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding 13 MPH ABOVE POSTED SPD LIMIT
+2596,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding 13 MPH ABOVE THE POSTED SPEED LIMIT
+2597,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding 13 MPH ABOVE POSTED SPEED LIMIT
+2598,1,Traffic Violation,54655,23123.5 VC - NO HND HLD DEVICE W/DRIVE (I) 54655,Moving Violation,CITE FOR 23123.5(A) CVC
+2599,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2600,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,phone
+2601,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Equipment Violation,"UNUSUAL, LOUD EXHAUST"
+2602,1,Reasonable Suspicion,32111,647(E) PC - DIS CON:LODGE W/O CONSENT (M) 32111,Officer witnessed commission of a crime,MALE SITTING ON CURB WITH MULTIPLE BAGS OF ITEMS
+2602,2,Reasonable Suspicion,32111,647(E) PC - DIS CON:LODGE W/O CONSENT (M) 32111,Other Reasonable Suspicion of a crime,MALE SLEEPING IN PUBLIC PARKING LOT..MULTIPLE BAGS OF ITEM
+2603,1,Reasonable Suspicion,41063,25620 BP - POSS OPEN ALCOHOL:PUBLIC (I) 41063,Other Reasonable Suspicion of a crime,FIELD INTERVIEW
+2603,2,Reasonable Suspicion,32022,602 PC - TRESPASSING (M) 32022,Other Reasonable Suspicion of a crime,FIELD INTERVIEW
+2604,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,"SIGNS POSTED, NO LEFT TURN. SHE TURNED ANYWAY. I STOPPED HER AND ISSUED HER A NOTICE TO APPEAR IN COURT"
+2605,1,Traffic Violation,54099,4000(A) VC - NO REG:VEH/TRAILER/ETC (I) 54099,"Non-moving Violation, including Registration Violation",EXPIRED REGISTRATION
+2606,1,Reasonable Suspicion,54529,21970(A) VC - VEH BLOCK XWALK/SIDEWALK (I) 54529,Officer witnessed commission of a crime,contact regarding blocking the sidewalk
+2607,1,Traffic Violation,54211,5202 VC - LICENSE PLATE DISPLAY VIO (I) 54211,"Non-moving Violation, including Registration Violation",obstructed plate
+2608,1,Traffic Violation,54193,24600 VC - TAILLAMP VIOLATIONS (I) 54193,Equipment Violation,"vehicle stop Brake light, no license plate and cracked windshield"
+2608,2,Traffic Violation,54193,24600 VC - TAILLAMP VIOLATIONS (I) 54193,Equipment Violation,"Vehicle stop Brake light, no license plate and cracked windshield. She was pass."
+2609,1,Reasonable Suspicion,48004,69 PC - OBSTRUCT/RESIST EXEC OFF (F) 48004,Other Reasonable Suspicion of a crime,"Susp in vandalism. Upon arrival admited to being susp. Resisted detention, arrested for felony vandalism and assault on a police officer"
+2610,1,Reasonable Suspicion,53142,640(D)(1) PC - DISTURB/BEHAVIOR:PUB TRAN (M) 53142,Matched suspect description,subject creating disturbance a business
+2611,1,Reasonable Suspicion,10027,18 1203(A) US - HOSTAGE TAKING (F) 10027,Other Reasonable Suspicion of a crime,Radio call of male holding someone hostage
+2612,1,Traffic Violation,54655,23123.5 VC - NO HND HLD DEVICE W/DRIVE (I) 54655,Moving Violation,hand held cell phone
+2613,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,hand held cell
+2614,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,cell phone
+2615,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,helmet required
+2616,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,helmet
+2617,1,Consensual Encounter resulting in a search,,,,radio call
+2618,1,Traffic Violation,54168,5204(A) VC - EXPIRED TABS/FAIL DISPLAY (I) 54168,Equipment Violation,"driving with expired tags, driving on suspended license"
+2619,1,Reasonable Suspicion,32111,647(E) PC - DIS CON:LODGE W/O CONSENT (M) 32111,Officer witnessed commission of a crime,sleeping in car
+2620,1,Traffic Violation,54657,4000(A)(1) VC - NO REG:VEH/TRAILER/ETC (I) 54657,"Non-moving Violation, including Registration Violation","EXPIRED REGISTRATION, WINDOW TINT"
+2621,1,Reasonable Suspicion,32111,647(E) PC - DIS CON:LODGE W/O CONSENT (M) 32111,Officer witnessed commission of a crime,54.0110 sdmc
+2622,1,Reasonable Suspicion,32111,647(E) PC - DIS CON:LODGE W/O CONSENT (M) 32111,Officer witnessed commission of a crime,sleeper
+2623,1,Traffic Violation,54122,21457(A) VC - FAIL STOP:FLASH RED LIGHT (I) 54122,Moving Violation,Ran a red light
+2624,1,Reasonable Suspicion,32111,647(E) PC - DIS CON:LODGE W/O CONSENT (M) 32111,Officer witnessed commission of a crime,sleepin in car
+2625,1,Reasonable Suspicion,99990,NA - XX ZZ - COMMUNITY CARETAKING (X) 99990,Other Reasonable Suspicion of a crime,subj was acting erratic and foaming at the mouth
+2626,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2627,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Equipment Violation,no helmet
+2628,1,Reasonable Suspicion,32111,647(E) PC - DIS CON:LODGE W/O CONSENT (M) 32111,Other Reasonable Suspicion of a crime,Sleeping in park
+2629,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Equipment Violation,no helmet
+2630,1,Traffic Violation,54200,27803(B) VC - MOTORCYCLE/ETC:HELMET VIO (I) 54200,"Non-moving Violation, including Registration Violation",helmet
+2631,1,Traffic Violation,54193,24600 VC - TAILLAMP VIOLATIONS (I) 54193,Equipment Violation,brake light out
+2632,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Equipment Violation,no helmet
+2633,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Equipment Violation,no helmet
+2634,1,Traffic Violation,54200,27803(B) VC - MOTORCYCLE/ETC:HELMET VIO (I) 54200,Moving Violation,MC helmet
+2635,1,Reasonable Suspicion,32111,647(E) PC - DIS CON:LODGE W/O CONSENT (M) 32111,Other Reasonable Suspicion of a crime,Sitting in vehicle at glider port
+2635,2,Traffic Violation,54099,4000(A) VC - NO REG:VEH/TRAILER/ETC (I) 54099,Equipment Violation,Sitting in vehicle. Expired Registration
+2636,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Equipment Violation,no helmet
+2637,1,Reasonable Suspicion,32111,647(E) PC - DIS CON:LODGE W/O CONSENT (M) 32111,Other Reasonable Suspicion of a crime,sleeping in car with expired tags
+2638,1,Reasonable Suspicion,32111,647(E) PC - DIS CON:LODGE W/O CONSENT (M) 32111,Other Reasonable Suspicion of a crime,sleeping in vehicle
+2638,2,Reasonable Suspicion,32111,647(E) PC - DIS CON:LODGE W/O CONSENT (M) 32111,Other Reasonable Suspicion of a crime,sleeping in car
+2639,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,helmet
+2640,1,Reasonable Suspicion,23106,485 PC - APPROPR LOST PROP (M) 23106,Officer witnessed commission of a crime,poss shopping cart
+2641,1,Reasonable Suspicion,32111,647(E) PC - DIS CON:LODGE W/O CONSENT (M) 32111,Other Reasonable Suspicion of a crime,sleeping in tent on beach
+2641,2,Reasonable Suspicion,32111,647(E) PC - DIS CON:LODGE W/O CONSENT (M) 32111,Other Reasonable Suspicion of a crime,sleeping in tent on beach
+2642,1,Known to be on Parole / Probation / PRCS / Mandatory Supervision,,,,4th waiver search
+2642,2,Reasonable Suspicion,35353,11377(A) HS - POSSESS CNTL SUB (M) 35353,Actions indicative of drug transaction,loitering in narc area
+2642,3,Reasonable Suspicion,35353,11377(A) HS - POSSESS CNTL SUB (M) 35353,Actions indicative of drug transaction,loitering in narc area
+2643,1,Reasonable Suspicion,32111,647(E) PC - DIS CON:LODGE W/O CONSENT (M) 32111,Officer witnessed commission of a crime,living in vehicle
+2643,2,Reasonable Suspicion,32111,647(E) PC - DIS CON:LODGE W/O CONSENT (M) 32111,Officer witnessed commission of a crime,lving in vehicle
+2644,1,Traffic Violation,54522,21456.2(A) VC - BICYCLE OPR OBEY VEH LAWS (I) 54522,Equipment Violation,bike stop 
+2645,1,Traffic Violation,54109,24252(A) VC - FAIL MAINT VEH LITE EQUIP (I) 54109,Equipment Violation,SAW BRAKE LIGHT OUT DRIVERS SIDE
+2646,1,Reasonable Suspicion,64005,647(F) PC - DISORD CONDUCT:ALCOHOL (M) 64005,Other Reasonable Suspicion of a crime,was drinking booze out of open bottle
+2647,1,Traffic Violation,54134,22349 VC - EXCESSIVE SPEED (M) 54134,Moving Violation,Speeding
+2648,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2649,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2650,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2651,1,Reasonable Suspicion,38080,273.5(A) PC - CRPL INJ:SPOUS/COHAB/DATE (F) 38080,Other Reasonable Suspicion of a crime,Subj reported domestic violence incident.  Investigation determined subj to be dominant aggressor.
+2652,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2653,1,Reasonable Suspicion,35143,11550 HS - UNDER INFLUENCE CNTL SUB (M) 35143,Matched suspect description,Radio call of male running in traffic
+2654,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2655,1,Traffic Violation,54168,5204(A) VC - EXPIRED TABS/FAIL DISPLAY (I) 54168,"Non-moving Violation, including Registration Violation",REGISTRATION TABS NOT DISPLAYED IN REAR LICENSE PLATE AND NO FRONT LICENSE PLATE. DRIVER HAD SUSPENDED DRIVER LICENSE AND WAS IN POSSESSION OF NARCOTIC PARAPHERNALIA. DRIVER ARRESTED. 
+2656,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2657,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2658,1,Reasonable Suspicion,53072,415(1) PC - FIGHT IN PUBLIC PLACE (M) 53072,Matched suspect description,5150 eval
+2659,1,Consensual Encounter resulting in a search,,,,Medical only. Requested transport which required consent to search and handcuffs during transport.
+2660,1,Traffic Violation,54185,22101(D) VC - FAIL TO OBEY TURN SIGNS (I) 54185,Moving Violation,restricted lane
+2661,1,Reasonable Suspicion,24054,10851(A) VC - VEHICLE THEFT (F) 24054,Other Reasonable Suspicion of a crime,"DMV check, DOJ stop on vehicle, stolen vehicle, subject arrested"
+2662,1,Reasonable Suspicion,42104,23152(A) VC - DUI ALCOHOL (M) 42104,Matched suspect description,Male was subject of a radio call 
+2663,1,Traffic Violation,54427,21800(D) VC - FAIL STOP/YIELD:INOP SIGN (I) 54427,Moving Violation,ran stop sign
+2664,1,Reasonable Suspicion,35143,11550 HS - UNDER INFLUENCE CNTL SUB (M) 35143,Other Reasonable Suspicion of a crime,radio call 
+2665,1,Traffic Violation,54655,23123.5 VC - NO HND HLD DEVICE W/DRIVE (I) 54655,Moving Violation,TEXTING AND DRIVING
+2666,1,Traffic Violation,54655,23123.5 VC - NO HND HLD DEVICE W/DRIVE (I) 54655,Moving Violation,TEXTING AND DRIVING
+2667,1,Traffic Violation,54655,23123.5 VC - NO HND HLD DEVICE W/DRIVE (I) 54655,Moving Violation,NON-HANDS FREE CELL PHONE USE
+2668,1,Traffic Violation,54644,5200(A) VC - DISPLAY LIC PLATES WRONG (I) 54644,Moving Violation,no license plates on vehicle
+2669,1,Traffic Violation,54655,23123.5 VC - NO HND HLD DEVICE W/DRIVE (I) 54655,Moving Violation,HOLDING CELL PHONE IN HAND WHILE DRIVING
+2670,1,Traffic Violation,54306,22400(A) VC - DRIVE TOO SLOWLY/ETC (I) 54306,Moving Violation,sTOPPED IN ROADWAY
+2671,1,Traffic Violation,54088,21650.1 VC - OPR BIKE:RD/ETC:WRONG WAY (I) 54088,Moving Violation,RAN RED LIGHT AND RIDING BICYCLE WRONG WAY ON ONE WAY STREET
+2672,1,Traffic Violation,54306,22400(A) VC - DRIVE TOO SLOWLY/ETC (I) 54306,Moving Violation,STOPPED IN ROADWAY
+2673,1,Traffic Violation,54655,23123.5 VC - NO HND HLD DEVICE W/DRIVE (I) 54655,Moving Violation,TEXTING AND DRIVING
+2674,1,Reasonable Suspicion,35143,11550 HS - UNDER INFLUENCE CNTL SUB (M) 35143,Matched suspect description,yelling randomly
+2674,1,Reasonable Suspicion,35143,11550 HS - UNDER INFLUENCE CNTL SUB (M) 35143,Officer witnessed commission of a crime,yelling randomly
+2674,1,Reasonable Suspicion,35143,11550 HS - UNDER INFLUENCE CNTL SUB (M) 35143,Witness or Victim identification of Suspect at the scene,yelling randomly
+2675,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,CELLULAR TELEPHONE USE
+2676,1,Reasonable Suspicion,35143,11550 HS - UNDER INFLUENCE CNTL SUB (M) 35143,Matched suspect description,RADIO CALL
+2678,1,Reasonable Suspicion,53045,647(C) PC - BEGGING (M) 53045,Matched suspect description,"647 (M) begging, "
+2679,1,Traffic Violation,54167,22450(A) VC - FAIL STOP VEH:XWALK/ETC (I) 54167,Moving Violation,Ran stop sign
+2680,1,Reasonable Suspicion,32022,602 PC - TRESPASSING (M) 32022,Matched suspect description,fem refusing to leave business
+2681,1,Reasonable Suspicion,53072,415(1) PC - FIGHT IN PUBLIC PLACE (M) 53072,Matched suspect description,415 put in as no 5150 code exists in system.  Community Caretaker Role
+2682,1,Reasonable Suspicion,54005,23103 VC - RECKLESS DRIVING (M) 54005,Matched suspect description,traffic
+2683,1,Reasonable Suspicion,32022,602 PC - TRESPASSING (M) 32022,Other Reasonable Suspicion of a crime,trespass
+2684,1,Reasonable Suspicion,35143,11550 HS - UNDER INFLUENCE CNTL SUB (M) 35143,Other Reasonable Suspicion of a crime,Female subject was running in and out of oncoming traffic screaming incoherently. Subject was told mutliple times to get out of the way of oncoming traffiic. 
+2685,1,Reasonable Suspicion,32022,602 PC - TRESPASSING (M) 32022,Other Reasonable Suspicion of a crime,R/S should read 63.0202(a) SDMC
+2687,1,Traffic Violation,54167,22450(A) VC - FAIL STOP VEH:XWALK/ETC (I) 54167,Moving Violation,"1150 gst, code four"
+2688,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,parking in red
+2689,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,"Non-moving Violation, including Registration Violation",EXPIRED REGISTRATION
+2690,1,Reasonable Suspicion,52436,25850(A) PC - CRRY LOAD F/ARM PUB PLACE (M) 52436,Carrying Suspicious Object,Field Interview Stop for subject seen carrying possible loaded firearm in public.
+2691,1,Traffic Violation,54109,24252(A) VC - FAIL MAINT VEH LITE EQUIP (I) 54109,Equipment Violation,third brake light was not in working condition on vehicle
+2692,1,Traffic Violation,54168,5204(A) VC - EXPIRED TABS/FAIL DISPLAY (I) 54168,Equipment Violation,Expired Registration and brake light out. 
+2693,1,Traffic Violation,54571,26708(A)(1) VC - OPR VEH:WINDOW OBSTRUCTED (I) 54571,Equipment Violation,Tinted Windows
+2694,1,Traffic Violation,54533,24410(A) VC - SINGLE BEAM:PROPER ADJUST (I) 54533,Equipment Violation,SIX UNCOVERED OFF ROAD LIGHTS
+2695,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2696,1,Traffic Violation,54655,23123.5 VC - NO HND HLD DEVICE W/DRIVE (I) 54655,Moving Violation,HOLDING PHONE IN HAND WHILE DRIVING
+2697,1,Traffic Violation,54655,23123.5 VC - NO HND HLD DEVICE W/DRIVE (I) 54655,Moving Violation,cell phone
+2698,1,Traffic Violation,54655,23123.5 VC - NO HND HLD DEVICE W/DRIVE (I) 54655,Moving Violation,cell phone
+2699,1,Traffic Violation,54655,23123.5 VC - NO HND HLD DEVICE W/DRIVE (I) 54655,Moving Violation,HOLDING CELL PHONE IN HAND WHILE DRIVING
+2700,1,Knowledge of outstanding arrest warrant/wanted person,,,,RADIO CALL FOR A MALE WHO PUNCHED SOMEONE AT A CHURCH
+2701,1,Traffic Violation,54167,22450(A) VC - FAIL STOP VEH:XWALK/ETC (I) 54167,Moving Violation,stop sign
+2702,1,Traffic Violation,54655,23123.5 VC - NO HND HLD DEVICE W/DRIVE (I) 54655,Moving Violation,cell phone
+2703,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,RED ARROW LIGHT
+2704,1,Traffic Violation,54200,27803(B) VC - MOTORCYCLE/ETC:HELMET VIO (I) 54200,Moving Violation,no helmet
+2705,1,Investigation to determine whether the person was truant,,,,other office observed male poss split from there contact. cc w male in half way house
+2706,1,Traffic Violation,54655,23123.5 VC - NO HND HLD DEVICE W/DRIVE (I) 54655,Moving Violation,cell phone
+2707,1,Reasonable Suspicion,53130,415(2) PC - LOUD/UNREASONABLE NOISE (I) 53130,Matched suspect description,Contacted regarding radio call 
+2708,1,Reasonable Suspicion,53072,415(1) PC - FIGHT IN PUBLIC PLACE (M) 53072,Other Reasonable Suspicion of a crime,5150 evaluation
+2709,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Subject was stopped in relation to speeding.
+2710,1,Traffic Violation,54657,4000(A)(1) VC - NO REG:VEH/TRAILER/ETC (I) 54657,Equipment Violation,EXPIRED REGISTRATION.
+2712,1,Traffic Violation,54167,22450(A) VC - FAIL STOP VEH:XWALK/ETC (I) 54167,Moving Violation,Did not stop at stop sign
+2713,1,Reasonable Suspicion,32111,647(E) PC - DIS CON:LODGE W/O CONSENT (M) 32111,Officer witnessed commission of a crime,radio call of subject setting up a camp in the alley
+2714,1,Traffic Violation,54146,21461(A) VC - DRIVER FAIL OBEY SIGN/ETC (I) 54146,Moving Violation,Turned right against a no turn right on red. 
+2715,1,Reasonable Suspicion,32022,602 PC - TRESPASSING (M) 32022,Other Reasonable Suspicion of a crime,living in shed
+2715,2,Reasonable Suspicion,32022,602 PC - TRESPASSING (M) 32022,Other Reasonable Suspicion of a crime,living in shed
+2716,1,Reasonable Suspicion,35150,11173(C) HS - REP AS DR/ETC:GET C/SUB (F) 35150,Matched suspect description,radio call
+2717,1,Traffic Violation,54398,21950(A) VC - FAIL YIELD TO PED:XWALKS (I) 54398,Moving Violation,Subject stopped for failing to yeild to pedestrians in crosswalk
+2718,1,Traffic Violation,54099,4000(A) VC - NO REG:VEH/TRAILER/ETC (I) 54099,Equipment Violation,The driver did nothing wrong exception of driving with a trailer expired since 2014
+2719,1,Reasonable Suspicion,35138,11378 HS - POSS CNTL SUB FOR SALE (F) 35138,Actions indicative of drug transaction,Subject was seen selling drugs to people. Also tresspassing on private property.
+2720,1,Reasonable Suspicion,13187,243(E) PC - BATTERY:SPOUSE/ETC (M) 13187,Matched suspect description,DV DISTURBANCE OVER UNPAID RENT DUES
+2720,1,Reasonable Suspicion,13187,243(E) PC - BATTERY:SPOUSE/ETC (M) 13187,Witness or Victim identification of Suspect at the scene,DV DISTURBANCE OVER UNPAID RENT DUES
+2721,1,Investigation to determine whether the person was truant,,,,matched description of radio call
+2722,1,Traffic Violation,54167,22450(A) VC - FAIL STOP VEH:XWALK/ETC (I) 54167,Moving Violation, VEHICLE DID NOT COME TO A COMPLET STOP AT LIMIT LINE
+2723,1,Traffic Violation,54111,27315(E) VC - PASNGR 16+ NO SAFETY BELT (I) 54111,Moving Violation,"subject turned right on a no turn on red light intersection whle the light was red. while contacting the subject, he had four people in his back seat and only three seatbelts available."
+2724,1,Traffic Violation,54109,24252(A) VC - FAIL MAINT VEH LITE EQUIP (I) 54109,Equipment Violation,BRAKE LIGHT NOT WORKING
+2725,1,Reasonable Suspicion,13219,245(A)(1) PC - ADW NOT FIREARM (F) 13219,Matched suspect description,driving vehicle involved in possible crime
+2725,2,Reasonable Suspicion,13219,245(A)(1) PC - ADW NOT FIREARM (F) 13219,Matched suspect description,suspected to have broken glass
+2725,3,Reasonable Suspicion,29138,594(A) PC - VANDALISM (M) 29138,Matched suspect description,possibly broke a glass
+2725,4,Reasonable Suspicion,29138,594(A) PC - VANDALISM (M) 29138,Matched suspect description,possibly broke a glass
+2726,1,Reasonable Suspicion,32071,602.1(A) PC - TRESPASS PUBLIC BUSINESS (M) 32071,Witness or Victim identification of Suspect at the scene,RP WANTED GF TO MOVE OUT AND GF AGREED TO MOVE OUT TODAY
+2727,1,Traffic Violation,41063,25620 BP - POSS OPEN ALCOHOL:PUBLIC (I) 41063,"Non-moving Violation, including Registration Violation",OPEN CONTAINER
+2728,1,Traffic Violation,54116,27150(A) VC - INADEQUATE MUFFLERS (I) 54116,Moving Violation,EXTREMELY LOUD EXHAUST
+2729,1,Reasonable Suspicion,12018,211 PC - ROBBERY:SECOND DEGREE (F) 12018,Matched suspect description,Radio call about a robbery and suspects were still at location.
+2729,2,Reasonable Suspicion,12004,211 PC - ROBBERY (F) 12004,Matched suspect description,ARdio call about a robbery that occured and suspects were still on scene
+2730,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding EAST BOUND 20 MPH OVER THE SPEED LIMIT
+2731,1,Reasonable Suspicion,53072,415(1) PC - FIGHT IN PUBLIC PLACE (M) 53072,Matched suspect description,SUBJECT WAS ACCUSED OF CAR JACKING AND BATTERY BY REPORTING PARTY
+2732,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,43.1002G SDMC
+2733,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,63.0102B2 SDMC
+2734,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,43.1002G SDMC
+2735,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,DOG IN PARK
+2736,1,Traffic Violation,54618,38355(A) VC - INADEQUATE BRAKE SYSTEM (I) 54618,Equipment Violation,3d brake light out. verbal warning. 
+2737,1,Known to be on Parole / Probation / PRCS / Mandatory Supervision,,,,11550
+2738,1,Reasonable Suspicion,13055,23110(A) VC - THROW SUBSTANCE AT VEH (M) 13055,Officer witnessed commission of a crime,Subject seen preparing to throw rock at vehcile.
+2739,1,Reasonable Suspicion,13045,242 PC - BATTERY (M) 13045,Matched suspect description,Security guard escorted customer out of restaurant.
+2739,1,Reasonable Suspicion,13045,242 PC - BATTERY (M) 13045,Witness or Victim identification of Suspect at the scene,Security guard escorted customer out of restaurant.
+2740,1,Reasonable Suspicion,9005,187(A) PC - MURDER (F) 9005,Other Reasonable Suspicion of a crime,Subject matched the description of 187 suspect.  
+2741,1,Consensual Encounter resulting in a search,,,,Sitting next to male who matched disrp of 187 suspect.  Consent then discovered on probation with 4th
+2742,1,Traffic Violation,23160,484(A) PC - PETTY THEFT:$50- (I) 23160,"Non-moving Violation, including Registration Violation",shoplifting/ petty theft/ 10-16
+2743,1,Traffic Violation,54657,4000(A)(1) VC - NO REG:VEH/TRAILER/ETC (I) 54657,Moving Violation,no mo tab
+2744,1,Traffic Violation,54657,4000(A)(1) VC - NO REG:VEH/TRAILER/ETC (I) 54657,"Non-moving Violation, including Registration Violation",no mo tab and reg exp
+2745,1,Reasonable Suspicion,66205,640(B)(3) PC - SMOKING PROHIBITED AREA (I) 66205,Other Reasonable Suspicion of a crime,Subject smoking a cigarette at the beach where it stats do not smoke
+2746,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,vehicle was going fast through fiesta island
+2747,1,Reasonable Suspicion,53074,415(3) PC - OFFENSIVE WORDS:PUBLIC PL (M) 53074,Matched suspect description,A RADIO CALL OF A FEMALE THREATENING TO STAB SOMEONE
+2748,1,Consensual Encounter resulting in a search,,,,Rico Santiago was setting up encampment underneath stairs 
+2749,1,Reasonable Suspicion,32022,602 PC - TRESPASSING (M) 32022,Matched suspect description,prowling 
+2750,1,Traffic Violation,54657,4000(A)(1) VC - NO REG:VEH/TRAILER/ETC (I) 54657,Equipment Violation,expired registration
+2751,1,Consensual Encounter resulting in a search,,,,"vehicle reg expired, subject was a 4th and search conducted. nothing found c4"
+2752,1,Reasonable Suspicion,53072,415(1) PC - FIGHT IN PUBLIC PLACE (M) 53072,Matched suspect description,Radio call regarding a 5150 
+2753,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,43.1002G & 415 W/CITIZEN
+2754,1,Reasonable Suspicion,32022,602 PC - TRESPASSING (M) 32022,Matched suspect description,A RADIO CALL OF DISTURBANCE
+2755,1,Reasonable Suspicion,32022,602 PC - TRESPASSING (M) 32022,Matched suspect description,A RADIO CALL OF A DISTURBANCE
+2756,1,Traffic Violation,54644,5200(A) VC - DISPLAY LIC PLATES WRONG (I) 54644,Equipment Violation,VEHICLE DID NOT HAVE REAR LICENSE PLATE.
+2757,1,Reasonable Suspicion,32022,602 PC - TRESPASSING (M) 32022,Matched suspect description,A RADIO CALL OF A DISTURBANCE WITH ALCOHOL
+2758,1,Traffic Violation,54644,5200(A) VC - DISPLAY LIC PLATES WRONG (I) 54644,Equipment Violation,VEHICLE DID NOT HAVE REAR LICESNE PLATE.
+2759,1,Traffic Violation,54146,21461(A) VC - DRIVER FAIL OBEY SIGN/ETC (I) 54146,Moving Violation,illegal U turn
+2760,1,Reasonable Suspicion,54522,21456.2(A) VC - BICYCLE OPR OBEY VEH LAWS (I) 54522,Other Reasonable Suspicion of a crime,I observed  the individual riding a bike on the sidewalk in a business district.
+2761,1,Reasonable Suspicion,41063,25620 BP - POSS OPEN ALCOHOL:PUBLIC (I) 41063,Other Reasonable Suspicion of a crime,OPEN BEER
+2762,1,Traffic Violation,54566,23123(A) VC - USE CELLPH W/DRIV W/O HFD (I) 54566,Moving Violation,Driving while on cellphone
+2763,1,Reasonable Suspicion,99999,NA - XX ZZ - CODE NOT FOUND IN TABLE (X) 99999,Other Reasonable Suspicion of a crime,VICTIM OF A CRIME.
+2764,1,Traffic Violation,42116,23152(F) VC - DUI ANY DRUG (M) 42116,Moving Violation,SMOKING MARIJUANA WHILE DRIVING VEHICLE
+2764,2,Traffic Violation,42116,23152(F) VC - DUI ANY DRUG (M) 42116,Moving Violation,PASSENGER IN CAR SMOKING MARIJUANA
+2764,3,Traffic Violation,42116,23152(F) VC - DUI ANY DRUG (M) 42116,Moving Violation,SMOKING MARIJUANA WHILE DRIVING
+2765,1,Consensual Encounter resulting in a search,,,,APPEARED DRIVER TO BE ON HER CELL PHONE.
+2766,1,Traffic Violation,54075,21651(B) VC - DRIVE WRONG WAY:DIV HWY (M) 54075,Moving Violation,wrong way driver
+2767,1,Traffic Violation,54566,23123(A) VC - USE CELLPH W/DRIV W/O HFD (I) 54566,Moving Violation,TSTOP
+2768,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2769,1,Consensual Encounter resulting in a search,,,,SUBJECT HAD TENT ON BEACH
+2770,1,Traffic Violation,54167,22450(A) VC - FAIL STOP VEH:XWALK/ETC (I) 54167,Moving Violation,VEHICLE DID NOT COME TO A COMPLETE STOP AT 4 WAY STOP INTERSECTION.
+2771,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2772,1,Reasonable Suspicion,66205,640(B)(3) PC - SMOKING PROHIBITED AREA (I) 66205,Other Reasonable Suspicion of a crime,Citation
+2773,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2774,1,Reasonable Suspicion,64005,647(F) PC - DISORD CONDUCT:ALCOHOL (M) 64005,Other Reasonable Suspicion of a crime,Flag Down about intoxicated female
+2775,1,Traffic Violation,54566,23123(A) VC - USE CELLPH W/DRIV W/O HFD (I) 54566,Moving Violation,CELL PHONE IN RIGHT HAND AGAINST RIGHT EAR MAKING A RIGHT TURN
+2776,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2777,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Other Reasonable Suspicion of a crime,SUBJECT HAD DOG ON BEACH
+2778,1,Reasonable Suspicion,41063,25620 BP - POSS OPEN ALCOHOL:PUBLIC (I) 41063,Other Reasonable Suspicion of a crime,citation
+2779,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2780,1,Traffic Violation,54167,22450(A) VC - FAIL STOP VEH:XWALK/ETC (I) 54167,Moving Violation,STOP SIGN VIOLATION/ WINDOW TINT
+2781,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,DOG PROH
+2782,1,Reasonable Suspicion,64005,647(F) PC - DISORD CONDUCT:ALCOHOL (M) 64005,Other Reasonable Suspicion of a crime,passed out
+2783,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Other Reasonable Suspicion of a crime,SUBJECT  HAD DOG ON BEACH
+2784,1,Traffic Violation,54657,4000(A)(1) VC - NO REG:VEH/TRAILER/ETC (I) 54657,Equipment Violation,"sus registration, paid on line today receipt, no 37s no hgn"
+2785,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2786,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2787,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2788,1,Traffic Violation,54645,5200(B) VC - DISPLY ONE LIC PLATE WRNG (I) 54645,Equipment Violation,NO FRONT PLATE
+2789,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Other Reasonable Suspicion of a crime,SUBJECT HAD AN OPEN CONTAINER ON BEACH
+2790,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,Speeding
+2791,1,Reasonable Suspicion,53131,415(1) PC - FIGHT/ETC IN PUBLIC PLACE (I) 53131,Actions indicative of engaging in violent crime,subject was hitting sign with pole 
+2792,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,DOG  PROH
+2792,2,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,DOG PROH
+2793,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,open container
+2794,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,Speeding
+2795,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,Speeding
+2796,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,DOG PROH
+2797,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,Speeding
+2798,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,LOOSE ANIMAL
+2799,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,LOOSE ANIMAL
+2800,1,Reasonable Suspicion,65000,65000 ZZ - LOCAL ORDINANCE VIOL (M) 65000,Other Reasonable Suspicion of a crime,PARTY CALL. WRITTEN WARNING GIVEN
+2801,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,speed
+2802,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,speed
+2803,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,DOG PROH
+2804,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,speed
+2805,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,SALES W/OUT PERMIT/ ICECREAM
+2806,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,direction
+2807,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2808,1,Reasonable Suspicion,13039,240/242 PC - ASSAULT & BATTERY (M) 13039,Other Reasonable Suspicion of a crime,LAND LORD TENATE DISPUTE. CIVIL ISSUE
+2808,1,Reasonable Suspicion,13039,240/242 PC - ASSAULT & BATTERY (M) 13039,Matched suspect description,LAND LORD TENATE DISPUTE. CIVIL ISSUE
+2809,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2810,1,Reasonable Suspicion,62092,14 4311(A) CA - CA REG:FIRE NOT IN STOVE (M) 62092,Other Reasonable Suspicion of a crime,subject having a fire in the sand 
+2811,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2811,2,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,"Non-moving Violation, including Registration Violation",helmet
+2812,1,Reasonable Suspicion,29138,594(A) PC - VANDALISM (M) 29138,Actions indicative of engaging in violent crime,SUBJECT THREW A BICYCLE AT A BUILDING.
+2812,1,Reasonable Suspicion,29138,594(A) PC - VANDALISM (M) 29138,Officer witnessed commission of a crime,SUBJECT THREW A BICYCLE AT A BUILDING.
+2813,1,Reasonable Suspicion,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Officer witnessed commission of a crime,NO HELMET
+2814,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,SPEED
+2815,1,Traffic Violation,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Moving Violation,boating
+2816,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,SPEED
+2817,1,Traffic Violation,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Moving Violation,Speeding
+2818,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,DIRECTION
+2819,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,SMOKING
+2820,1,Traffic Violation,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Moving Violation,Speeding
+2821,1,Traffic Violation,66205,640(B)(3) PC - SMOKING PROHIBITED AREA (I) 66205,"Non-moving Violation, including Registration Violation",Smoking at bus stop and cited
+2822,1,Traffic Violation,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Moving Violation,counterclockwise
+2823,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,DOG PROH
+2824,1,Traffic Violation,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Moving Violation,counterclockwise
+2825,1,Traffic Violation,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Moving Violation,counterclockwise
+2826,1,Traffic Violation,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Moving Violation,counterclockwise
+2827,1,Reasonable Suspicion,99999,NA - XX ZZ - CODE NOT FOUND IN TABLE (X) 99999,Other Reasonable Suspicion of a crime,a 415 between neighbors
+2828,1,Reasonable Suspicion,66205,640(B)(3) PC - SMOKING PROHIBITED AREA (I) 66205,Officer witnessed commission of a crime,male smoking at bus stop in violation of sdmc
+2829,1,Traffic Violation,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Moving Violation,counterclockwise
+2830,1,Traffic Violation,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Moving Violation,Speeding
+2831,1,Traffic Violation,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Moving Violation,Speeding
+2832,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,NO HELMET
+2833,1,Traffic Violation,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Moving Violation,counterclockwise
+2834,1,Traffic Violation,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Moving Violation,counterclockwise
+2835,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,NO HELMET
+2836,1,Traffic Violation,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Moving Violation,counterclockwise
+2837,1,Traffic Violation,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Moving Violation,Speeding
+2838,1,Traffic Violation,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Moving Violation,Speeding
+2839,1,Traffic Violation,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Moving Violation,violation of signs
+2840,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2841,1,Reasonable Suspicion,54090,23222(A) VC - POSS OPEN CONTAINER:DRIVE (I) 54090,Other Reasonable Suspicion of a crime,ped stop open alcohol container
+2842,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2843,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2844,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2845,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2846,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2847,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2848,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2849,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2850,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2851,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2852,1,Traffic Violation,54144,24603(B) VC - STOPLAMPS VIOL:SPEC VEH (I) 54144,Equipment Violation,Subject stopped in relation to rear brakelight being out of order.
+2853,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2854,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,no dogs
+2855,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2856,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,no dogs
+2857,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2858,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,no glass
+2859,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,No helmet
+2860,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2861,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,smoking
+2862,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,NO HELMET
+2863,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2864,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,NO HELMET
+2865,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2866,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,NO HELMET
+2867,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2868,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,NO HELMET
+2869,1,Reasonable Suspicion,41063,25620 BP - POSS OPEN ALCOHOL:PUBLIC (I) 41063,Officer witnessed commission of a crime,open container
+2870,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,NO HELMET
+2871,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,NO HELMET
+2872,1,Reasonable Suspicion,41063,25620 BP - POSS OPEN ALCOHOL:PUBLIC (I) 41063,Officer witnessed commission of a crime,open container
+2873,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,NO HELMET
+2874,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2875,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,NO HELMET
+2876,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2877,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,NO HELMET
+2878,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2879,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2880,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,NO HELMET
+2881,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2882,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,NO HELMET
+2883,1,Reasonable Suspicion,65000,65000 ZZ - LOCAL ORDINANCE VIOL (M) 65000,Other Reasonable Suspicion of a crime,415N. VERBAL WARNING
+2884,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2885,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,NO HELMET
+2886,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2887,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2888,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,NO HELMET
+2889,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,NO HLMET
+2890,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,smoking
+2891,1,Reasonable Suspicion,41079,25608.1 BP - NO ALC BEV:OPEN/CLSD:SPEC (I) 41079,Other Reasonable Suspicion of a crime,OPEN CONTAINER ALCOHOL
+2892,1,Traffic Violation,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Moving Violation,SMOKING
+2893,1,Reasonable Suspicion,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,Officer witnessed commission of a crime,smoking
+2894,1,Traffic Violation,65002,65002 ZZ - LOCAL ORDINANCE VIOL (I) 65002,"Non-moving Violation, including Registration Violation",SMOKING
+2895,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2896,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2897,1,Traffic Violation,54460,21235(C) VC - OP MOTR SCOOTR W/O HELMET (I) 54460,Moving Violation,no helmet
+2898,1,Traffic Violation,54114,21801(A) VC - FT/YIELD BE4 LEFT/U-TURN (I) 54114,Moving Violation,subj made left turn in front of me whilw i was going straight. subj failed to yield right of way
+2899,1,Traffic Violation,54109,24252(A) VC - FAIL MAINT VEH LITE EQUIP (I) 54109,Equipment Violation,3rd brake light out
+2900,1,Reasonable Suspicion,36279,314.1 PC - INDECENT EXPOSURE (F) 36279,Officer witnessed commission of a crime,sex in public
+2900,2,Reasonable Suspicion,36018,314.1 PC - INDECENT EXPOSURE (M) 36018,Officer witnessed commission of a crime,sex in public
+2901,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2902,1,Traffic Violation,54146,21461(A) VC - DRIVER FAIL OBEY SIGN/ETC (I) 54146,Moving Violation,SIGN VIOLATION
+2903,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2904,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2905,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2906,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2907,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2908,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2909,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2910,1,Reasonable Suspicion,35143,11550 HS - UNDER INFLUENCE CNTL SUB (M) 35143,Matched suspect description,SUBJECT WAS HEARD YELLING AND SCREAMING PROFANITIES POSSIBLY UNDER THE INFLUENCE
+2911,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2912,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2913,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2914,1,Traffic Violation,54106,22350 VC - UNSAFE SPEED:PREVAIL COND (I) 54106,Moving Violation,Speeding
+2915,1,Consensual Encounter resulting in a search,,,,RADIO CALL
+2916,1,Reasonable Suspicion,12004,211 PC - ROBBERY (F) 12004,Witness or Victim identification of Suspect at the scene,WALKING AWAY
+2917,1,Consensual Encounter resulting in a search,,,,5150 det
+2918,1,Reasonable Suspicion,32022,602 PC - TRESPASSING (M) 32022,Matched suspect description,A RADIO CALL OF A VIOLENT AMLE REFUSING TO LEAVE
+2919,1,Traffic Violation,54639,21235(E) VC - OPR MOTR SCOOTR W/PASSNGR (I) 54639,Moving Violation,SAW TWO SCOOTERS GOING NORTH ON 1700 CABLE WITH 2 PEOPLE ON EACH SCOOTER
+2920,1,Reasonable Suspicion,64005,647(F) PC - DISORD CONDUCT:ALCOHOL (M) 64005,Officer witnessed commission of a crime,Appeared intoxicated
+2921,1,Reasonable Suspicion,99990,NA - XX ZZ - COMMUNITY CARETAKING (X) 99990,Matched suspect description,5150 hold
+2922,1,Traffic Violation,54146,21461(A) VC - DRIVER FAIL OBEY SIGN/ETC (I) 54146,Moving Violation,SIGN VIO
+2923,1,Reasonable Suspicion,64005,647(F) PC - DISORD CONDUCT:ALCOHOL (M) 64005,Other Reasonable Suspicion of a crime,"radio call 647f, evalued subject and arrested"
+2923,1,Reasonable Suspicion,64005,647(F) PC - DISORD CONDUCT:ALCOHOL (M) 64005,Witness or Victim identification of Suspect at the scene,"radio call 647f, evalued subject and arrested"
+2924,1,Reasonable Suspicion,41063,25620 BP - POSS OPEN ALCOHOL:PUBLIC (I) 41063,Officer witnessed commission of a crime,in possesion of an open alcohol container
+2925,1,Investigation to determine whether the person was truant,,,,Radio Call 
+2926,1,Investigation to determine whether the person was truant,,,,Radio Call 
+2927,1,Consensual Encounter resulting in a search,,,,radio call!!!
+2927,2,Consensual Encounter resulting in a search,,,,radio call
+2928,1,Investigation to determine whether the person was truant,,,,Radio Call 
+2928,2,Investigation to determine whether the person was truant,,,,Radio Call 
+2929,1,Traffic Violation,54098,21453(A) VC - FAIL STOP LINE/ETC AT RED (I) 54098,Moving Violation,RAN RED LIGHT
+2930,1,Traffic Violation,54167,22450(A) VC - FAIL STOP VEH:XWALK/ETC (I) 54167,Moving Violation,FAILURE TO STOP AT STOP SIGN
+2931,1,Traffic Violation,54167,22450(A) VC - FAIL STOP VEH:XWALK/ETC (I) 54167,Moving Violation,FAILURE TO STOP AT STOP SIGN
+2932,1,Traffic Violation,54107,12500(A) VC - DRIVE W/O LICENSE (M) 54107,Equipment Violation,Unlicenced
+2933,1,Traffic Violation,54107,12500(A) VC - DRIVE W/O LICENSE (M) 54107,Equipment Violation,Unlicensed

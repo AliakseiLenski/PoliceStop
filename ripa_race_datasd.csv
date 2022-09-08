@@ -1,0 +1,504 @@
+stop_id,pid,race
+2443,1,White
+2444,1,White
+2447,1,Hispanic/Latino/a
+2447,2,Hispanic/Latino/a
+2448,1,White
+2449,1,White
+2451,1,White
+2453,1,Black/African American
+2454,1,Black/African American
+2455,1,Black/African American
+2456,1,White
+2457,1,Hispanic/Latino/a
+2458,1,White
+2459,1,Hispanic/Latino/a
+2461,1,Native American
+2462,1,Middle Eastern or South Asian
+2463,1,White
+2464,1,White
+2465,1,Hispanic/Latino/a
+2467,1,Black/African American
+2469,1,White
+2471,1,Black/African American
+2473,1,White
+2474,1,Hispanic/Latino/a
+2475,1,White
+2476,1,Hispanic/Latino/a
+2477,1,Hispanic/Latino/a
+2477,2,Hispanic/Latino/a
+2478,1,Hispanic/Latino/a
+2479,1,Hispanic/Latino/a
+2479,2,Hispanic/Latino/a
+2481,1,Hispanic/Latino/a
+2482,1,Hispanic/Latino/a
+2483,1,Hispanic/Latino/a
+2484,1,White
+2485,1,Black/African American
+2486,1,Hispanic/Latino/a
+2487,1,White
+2488,1,Black/African American
+2489,1,Middle Eastern or South Asian
+2490,1,White
+2491,1,Hispanic/Latino/a
+2493,1,Hispanic/Latino/a
+2497,1,Black/African American
+2499,1,Hispanic/Latino/a
+2500,1,Hispanic/Latino/a
+2501,1,Asian
+2502,1,White
+2503,1,Middle Eastern or South Asian
+2504,1,Hispanic/Latino/a
+2505,1,Hispanic/Latino/a
+2506,1,Black/African American
+2507,1,Black/African American
+2508,1,Asian
+2509,1,Black/African American
+2510,1,Hispanic/Latino/a
+2511,1,Black/African American
+2512,1,Asian
+2513,1,White
+2514,1,White
+2516,1,Hispanic/Latino/a
+2517,1,White
+2518,1,Black/African American
+2519,1,Middle Eastern or South Asian
+2519,1,White
+2520,1,White
+2521,1,Black/African American
+2522,1,Middle Eastern or South Asian
+2523,1,Hispanic/Latino/a
+2525,1,White
+2526,1,Black/African American
+2527,1,White
+2528,1,White
+2528,2,White
+2529,1,Black/African American
+2530,1,Hispanic/Latino/a
+2531,1,White
+2532,1,Hispanic/Latino/a
+2533,1,Hispanic/Latino/a
+2534,1,White
+2535,1,White
+2536,1,Black/African American
+2537,1,Hispanic/Latino/a
+2538,1,White
+2539,1,White
+2541,1,Black/African American
+2542,1,Black/African American
+2543,1,Black/African American
+2544,1,Black/African American
+2545,1,Hispanic/Latino/a
+2546,1,White
+2547,1,Hispanic/Latino/a
+2548,1,Hispanic/Latino/a
+2549,1,White
+2550,1,White
+2551,1,White
+2552,1,White
+2553,1,Hispanic/Latino/a
+2554,1,Black/African American
+2555,1,Hispanic/Latino/a
+2556,1,White
+2557,1,White
+2558,1,White
+2559,1,Hispanic/Latino/a
+2560,1,White
+2561,1,Hispanic/Latino/a
+2562,1,Asian
+2563,1,White
+2564,1,White
+2565,1,White
+2565,2,White
+2566,1,White
+2567,1,White
+2568,1,Hispanic/Latino/a
+2569,1,White
+2569,2,Black/African American
+2570,1,Hispanic/Latino/a
+2571,1,White
+2572,1,White
+2573,1,Hispanic/Latino/a
+2575,1,White
+2576,1,White
+2577,1,White
+2578,1,White
+2579,1,Hispanic/Latino/a
+2579,2,Black/African American
+2579,3,Hispanic/Latino/a
+2579,4,Hispanic/Latino/a
+2580,1,Black/African American
+2581,1,Asian
+2582,1,Black/African American
+2583,1,White
+2584,1,White
+2585,1,Black/African American
+2586,1,White
+2587,1,White
+2588,1,White
+2589,1,White
+2590,1,White
+2591,1,White
+2592,1,Asian
+2593,1,White
+2594,1,Hispanic/Latino/a
+2595,1,White
+2596,1,White
+2596,1,Asian
+2597,1,White
+2598,1,White
+2599,1,White
+2600,1,White
+2601,1,White
+2602,1,White
+2602,2,Asian
+2603,1,White
+2603,2,White
+2604,1,White
+2605,1,Black/African American
+2606,1,White
+2607,1,Black/African American
+2608,1,White
+2608,2,White
+2609,1,Black/African American
+2610,1,White
+2611,1,Black/African American
+2612,1,White
+2613,1,White
+2614,1,White
+2615,1,Hispanic/Latino/a
+2615,1,White
+2616,1,White
+2617,1,Asian
+2618,1,Hispanic/Latino/a
+2619,1,Pacific Islander
+2620,1,Black/African American
+2621,1,Hispanic/Latino/a
+2622,1,White
+2623,1,Hispanic/Latino/a
+2624,1,Hispanic/Latino/a
+2625,1,White
+2626,1,Hispanic/Latino/a
+2627,1,White
+2628,1,White
+2629,1,White
+2630,1,White
+2631,1,White
+2632,1,White
+2633,1,White
+2634,1,Hispanic/Latino/a
+2635,1,Hispanic/Latino/a
+2635,2,Hispanic/Latino/a
+2636,1,White
+2637,1,Hispanic/Latino/a
+2638,1,Hispanic/Latino/a
+2638,2,White
+2639,1,White
+2640,1,White
+2641,1,White
+2641,2,White
+2642,1,White
+2642,2,White
+2642,3,White
+2643,1,Black/African American
+2643,2,Hispanic/Latino/a
+2644,1,White
+2645,1,White
+2646,1,White
+2647,1,White
+2648,1,White
+2649,1,Hispanic/Latino/a
+2650,1,White
+2651,1,Black/African American
+2652,1,White
+2653,1,Hispanic/Latino/a
+2654,1,White
+2655,1,White
+2656,1,White
+2657,1,White
+2658,1,Black/African American
+2659,1,Black/African American
+2660,1,White
+2661,1,White
+2662,1,Black/African American
+2663,1,White
+2664,1,White
+2665,1,White
+2666,1,White
+2667,1,White
+2668,1,Black/African American
+2669,1,White
+2670,1,White
+2671,1,White
+2672,1,Hispanic/Latino/a
+2673,1,White
+2674,1,Black/African American
+2675,1,White
+2676,1,Pacific Islander
+2678,1,White
+2679,1,Hispanic/Latino/a
+2680,1,White
+2681,1,White
+2682,1,White
+2683,1,White
+2684,1,White
+2685,1,White
+2687,1,Hispanic/Latino/a
+2688,1,White
+2689,1,Hispanic/Latino/a
+2690,1,Black/African American
+2691,1,White
+2692,1,White
+2693,1,Hispanic/Latino/a
+2694,1,White
+2695,1,White
+2696,1,White
+2697,1,Hispanic/Latino/a
+2698,1,White
+2699,1,White
+2700,1,White
+2701,1,White
+2702,1,Hispanic/Latino/a
+2703,1,Black/African American
+2704,1,White
+2705,1,White
+2706,1,White
+2707,1,White
+2708,1,White
+2709,1,Hispanic/Latino/a
+2710,1,Hispanic/Latino/a
+2712,1,White
+2713,1,White
+2714,1,White
+2715,1,Hispanic/Latino/a
+2715,2,Hispanic/Latino/a
+2716,1,Asian
+2717,1,Middle Eastern or South Asian
+2717,1,White
+2718,1,Black/African American
+2719,1,Hispanic/Latino/a
+2720,1,Black/African American
+2721,1,White
+2722,1,White
+2723,1,Black/African American
+2724,1,White
+2725,1,Hispanic/Latino/a
+2725,2,Hispanic/Latino/a
+2725,3,White
+2725,4,White
+2726,1,White
+2727,1,White
+2728,1,White
+2729,1,Black/African American
+2729,2,Black/African American
+2730,1,White
+2731,1,White
+2732,1,White
+2733,1,White
+2734,1,White
+2735,1,Hispanic/Latino/a
+2736,1,Black/African American
+2737,1,White
+2738,1,Asian
+2739,1,Hispanic/Latino/a
+2740,1,Black/African American
+2741,1,Black/African American
+2742,1,Black/African American
+2743,1,Black/African American
+2744,1,Black/African American
+2745,1,Asian
+2746,1,Hispanic/Latino/a
+2747,1,White
+2748,1,Black/African American
+2749,1,Pacific Islander
+2750,1,Black/African American
+2751,1,Hispanic/Latino/a
+2752,1,Hispanic/Latino/a
+2753,1,Black/African American
+2754,1,Hispanic/Latino/a
+2755,1,Hispanic/Latino/a
+2756,1,White
+2757,1,Hispanic/Latino/a
+2758,1,White
+2759,1,White
+2760,1,White
+2761,1,Hispanic/Latino/a
+2762,1,White
+2763,1,Hispanic/Latino/a
+2764,1,Black/African American
+2764,2,Black/African American
+2764,3,Black/African American
+2765,1,Black/African American
+2766,1,Hispanic/Latino/a
+2767,1,Hispanic/Latino/a
+2768,1,White
+2769,1,White
+2770,1,Asian
+2771,1,Hispanic/Latino/a
+2772,1,White
+2773,1,White
+2774,1,White
+2775,1,Middle Eastern or South Asian
+2776,1,White
+2777,1,Hispanic/Latino/a
+2778,1,Hispanic/Latino/a
+2779,1,White
+2780,1,Middle Eastern or South Asian
+2781,1,White
+2782,1,Hispanic/Latino/a
+2783,1,Hispanic/Latino/a
+2784,1,Black/African American
+2785,1,White
+2786,1,White
+2787,1,White
+2788,1,Black/African American
+2789,1,Hispanic/Latino/a
+2790,1,Hispanic/Latino/a
+2791,1,White
+2792,1,White
+2792,2,Asian
+2793,1,Hispanic/Latino/a
+2794,1,Hispanic/Latino/a
+2795,1,White
+2796,1,White
+2797,1,White
+2798,1,White
+2799,1,Hispanic/Latino/a
+2800,1,White
+2801,1,White
+2802,1,White
+2803,1,Hispanic/Latino/a
+2804,1,Hispanic/Latino/a
+2805,1,Hispanic/Latino/a
+2806,1,Hispanic/Latino/a
+2807,1,Black/African American
+2808,1,Asian
+2809,1,Black/African American
+2810,1,White
+2811,1,Black/African American
+2811,2,White
+2812,1,Hispanic/Latino/a
+2813,1,Hispanic/Latino/a
+2814,1,Black/African American
+2815,1,White
+2816,1,White
+2817,1,White
+2818,1,White
+2819,1,Hispanic/Latino/a
+2820,1,White
+2821,1,Hispanic/Latino/a
+2822,1,White
+2823,1,Middle Eastern or South Asian
+2824,1,White
+2825,1,White
+2826,1,White
+2827,1,White
+2828,1,White
+2829,1,White
+2830,1,White
+2831,1,White
+2832,1,White
+2833,1,Hispanic/Latino/a
+2834,1,Black/African American
+2835,1,Hispanic/Latino/a
+2836,1,Black/African American
+2837,1,Middle Eastern or South Asian
+2838,1,Middle Eastern or South Asian
+2839,1,Hispanic/Latino/a
+2840,1,White
+2841,1,White
+2842,1,Hispanic/Latino/a
+2843,1,White
+2844,1,Black/African American
+2845,1,White
+2846,1,White
+2847,1,Asian
+2848,1,Asian
+2849,1,Asian
+2850,1,White
+2851,1,White
+2852,1,White
+2853,1,White
+2854,1,Hispanic/Latino/a
+2855,1,White
+2856,1,White
+2857,1,Black/African American
+2858,1,Pacific Islander
+2859,1,White
+2860,1,White
+2861,1,White
+2862,1,White
+2863,1,White
+2864,1,Middle Eastern or South Asian
+2865,1,White
+2866,1,Middle Eastern or South Asian
+2867,1,White
+2868,1,Hispanic/Latino/a
+2869,1,White
+2870,1,White
+2871,1,Asian
+2872,1,White
+2873,1,White
+2874,1,White
+2875,1,White
+2876,1,White
+2877,1,Hispanic/Latino/a
+2878,1,White
+2879,1,Hispanic/Latino/a
+2880,1,Hispanic/Latino/a
+2881,1,White
+2882,1,White
+2883,1,White
+2884,1,White
+2885,1,White
+2886,1,Asian
+2887,1,White
+2888,1,Hispanic/Latino/a
+2889,1,Hispanic/Latino/a
+2890,1,White
+2891,1,White
+2892,1,Pacific Islander
+2893,1,White
+2894,1,White
+2895,1,White
+2896,1,White
+2897,1,White
+2898,1,White
+2899,1,White
+2900,1,White
+2900,2,Black/African American
+2901,1,Hispanic/Latino/a
+2902,1,Middle Eastern or South Asian
+2903,1,White
+2904,1,White
+2905,1,White
+2906,1,Black/African American
+2907,1,White
+2908,1,White
+2909,1,White
+2910,1,Hispanic/Latino/a
+2911,1,White
+2912,1,Hispanic/Latino/a
+2913,1,White
+2914,1,White
+2915,1,Hispanic/Latino/a
+2916,1,Hispanic/Latino/a
+2917,1,White
+2918,1,Black/African American
+2919,1,Hispanic/Latino/a
+2920,1,Hispanic/Latino/a
+2921,1,White
+2922,1,Asian
+2923,1,White
+2924,1,Black/African American
+2925,1,White
+2926,1,White
+2927,1,White
+2927,2,White
+2928,1,White
+2928,2,Hispanic/Latino/a
+2929,1,Hispanic/Latino/a
+2930,1,Middle Eastern or South Asian
+2931,1,Hispanic/Latino/a
+2932,1,White
+2933,1,White
